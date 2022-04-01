@@ -1,0 +1,18 @@
+*
+
+h2{
+    border-style: 2px;
+    border-width: 2px;
+    border-color:black;
+    border-radius: 20px;
+    border: solid 5px ;
+    outline: solid 5px red;
+    /*padding: 20px 10px 20px 30px;*/
+    padding: 20px 10px;
+    /*margin: 30%;*/
+    margin: 2% 5% 10% 7%;
+
+    /*margin-left: -%*/
+    /*how to format your code*/
+
+}
